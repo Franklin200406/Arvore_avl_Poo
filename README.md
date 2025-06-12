@@ -1,18 +1,25 @@
-## Getting Started
+# Trabalho AVL – Programação Orientada a Objetos
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 🎓 Centro Universitário Nobre
+**Curso:** Engenharia da Computação  
+**Disciplina:** Programação Orientada a Objetos  
+**Docente:** Prof. M.Sc. Alberlan Lopes  
+**Data da Apresentação:** 12 de Junho de 2025  
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 👥 Integrantes do Grupo
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- João Paulo Alves
+- Enzo Franklin Souza
+- Isabela Santa Rosa
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 📘 Descrição
 
-## Dependency Management
+Este projeto implementa uma **Árvore AVL em Java** com o objetivo de analisar o desempenho de inserção, remoção e busca em comparação com a estrutura `TreeMap` da biblioteca Java Collections Framework.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+#Instrução
