@@ -23,4 +23,5 @@ Este projeto implementa uma **Árvore AVL em Java** com o objetivo de analisar o
 ---
 
 #Instrução para aplicação em IDE:
--executar os arquivos em máquina
+-instale os anexos
+-execute o "ArvoreAVL.java"
