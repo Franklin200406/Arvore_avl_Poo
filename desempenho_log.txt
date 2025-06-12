@@ -1,0 +1,4 @@
+Desempenho AVL vs TreeMap
+Busca AVL: 2 ms
+Busca TreeMap: 1 ms
+Remocao AVL: 3 ms
